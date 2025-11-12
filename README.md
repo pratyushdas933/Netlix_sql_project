@@ -1,1 +1,1 @@
-# Netlix_sql_project
+# Netlix movies and TV shows data analysis
