@@ -1,2 +1,2 @@
 # Netlix movies and TV shows data analysis
-![Netlix Logo](https://github.com/pratyushdas933/Netlix_sql_project/blob/main/red-large-netflix-logo-text-701751694792625tjldcsq74b.png)
+![Netlix Logo](https://github.com/pratyushdas933/Netlix_sql_project/blob/main/pngwing.com.png)
